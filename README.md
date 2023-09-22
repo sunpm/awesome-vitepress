@@ -2,4 +2,4 @@
 > 和 [VitePress](https://vitepress.dev) 相关的精选列表
 
 ## 官方资源
-- [官方文档](https://vitepress.dev)
+- 📜[官方文档](https://vitepress.dev)
